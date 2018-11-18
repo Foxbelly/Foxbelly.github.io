@@ -337,7 +337,8 @@ INTRO CONTAINER
  .pricing.background_content{
     background: url('../images/pricing.jpg') no-repeat center center; 
     background-size: cover;
-    background-position: 70% 50%;
+    background-position: center;
+    background-attachment: fixed;
 }
 .reservation.background_content{
     background: url('../images/reservation-seat.jpg') no-repeat center center; 
